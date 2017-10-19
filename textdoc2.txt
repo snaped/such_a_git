@@ -1,0 +1,1 @@
+This is a second dummy text file which is part of our inequalities text mining project.
