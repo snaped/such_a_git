@@ -1,0 +1,1 @@
+This is my dummy text file which I'm creating in Notepad to practise with Git. Not sure how long it needs to be so I'll keep going for a bit.
